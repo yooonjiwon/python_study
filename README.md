@@ -17,20 +17,6 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-this-repository">About This Repository</a></li>
-    <li><a href="#language-used">Language Used</a></li>
-    <li><a href="#coding-chellenge-websites">Coding Chellenge Websites</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About This Repository
 
