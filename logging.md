@@ -6,7 +6,7 @@ Loggign has five levels of message: **degub, info, warning, error, and critical.
 ```python
 import logging
 
-logger = logging.get_Logger(__name__)
+logger = logging.getLogger(__name__)
 
 logger.debug("DEBUG") 
 logger.info("INFO") 
