@@ -30,7 +30,7 @@ I would like to organize things that I didn't know in terms of python.
 <br>
 
 ## Websites
-* Later
+* [docs python](https://docs.python.org/3/library/)
 
 <br>
 
