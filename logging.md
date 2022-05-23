@@ -1,7 +1,7 @@
 # Logging
 
 Logging can be coded like below. This module provides log message tracking series of events.  
-Loggign has five levels of message: degub, info, warning, error, and critical.   
+Loggign has five levels of message: **degub, info, warning, error, and critical.**
 
 ```python
 import logging
