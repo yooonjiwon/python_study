@@ -29,9 +29,8 @@ I would like to organize things that I didn't know in terms of python.
 
 <br>
 
-## Coding Chellenge Websites
-* [Leetcode](https://leetcode.com/problemset/all/)
-* [Baekjoon](https://www.acmicpc.net/)
+## Websites
+* Later
 
 <br>
 
